@@ -1,0 +1,19 @@
+{
+  "name": "shopifyql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mi-Pod/shopifyQl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mi-Pod/shopifyQl/issues"
+  },
+  "homepage": "https://github.com/Mi-Pod/shopifyQl#readme"
+}
