@@ -1,19 +1,26 @@
 {
   "name": "shopifyql",
   "version": "1.0.0",
-  "description": "",
+  "description": "Custom wrapper for Shopify GraphQL, by Mi-One Brands",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node src/test/connection.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mi-Pod/shopifyQl.git"
   },
-  "author": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Dylan Walters",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mi-Pod/shopifyQl/issues"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "8.x"
   },
   "homepage": "https://github.com/Mi-Pod/shopifyQl#readme",
   "dependencies": {
