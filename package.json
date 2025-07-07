@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Mi-Pod/shopifyQl/issues"
   },
-  "homepage": "https://github.com/Mi-Pod/shopifyQl#readme"
+  "homepage": "https://github.com/Mi-Pod/shopifyQl#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "colors": "^1.4.0",
+    "dotenv": "^17.0.1"
+  }
 }
