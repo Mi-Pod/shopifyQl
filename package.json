@@ -1,5 +1,5 @@
 {
-  "name": "shopifyql",
+  "name": "mi-shopifyql",
   "version": "1.1.0",
   "description": "Custom wrapper for Shopify GraphQL, by Mi-One Brands",
   "main": "index.js",
