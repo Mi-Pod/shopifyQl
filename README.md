@@ -14,7 +14,7 @@ SHOPIFY_API_VERSION=null
 ### Example Usage
 
 ```js
-import { shopifyQl } from "mi-shopifyql";
+import { shopifyQl } from "mipod-shopifyql";
 
 async function getShopName() {
   const site = "B2B";
