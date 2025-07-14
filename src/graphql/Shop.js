@@ -1,4 +1,4 @@
-import { shopifyQl } from "../api/Shopify.QL";
+const { shopifyQl } = require("../api/Shopify.QL");
 
 async function getShop(site) {
   const query = ` {
