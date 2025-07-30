@@ -34,3 +34,25 @@ async function getShopName() {
 
 getShopName();
 ```
+
+### Change Logs
+
+##### v1.6.4
+
+**Added:**
+
+- GraphQl/AccountCredit
+  - CreditAccount
+  - DebitAccount
+- GraphQL/Customers
+  - getCustomer
+  - createCustomer
+  - deleteCustomer
+- GraphQL/Metafields
+  - setMetafields
+- GraphQL/Webhooks
+  - getWebhooks
+  - createWebhook
+  - deleteWebhook
+
+---
