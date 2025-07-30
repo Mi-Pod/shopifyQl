@@ -37,6 +37,20 @@ getShopName();
 
 ### Change Logs
 
+##### v1.6.5
+
+**Fixed:**
+
+- Emit GraphQL functions in index.js
+
+**Added:**
+
+- GraphQl/Orders
+  - getOrderName
+  - getFulfillmentOrdersByOrderId
+
+---
+
 ##### v1.6.4
 
 **Added:**
