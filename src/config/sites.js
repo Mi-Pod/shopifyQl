@@ -20,6 +20,11 @@ const integratedSites = [
     storeName: "vaping-usa",
     token: process.env.VAP_TOKEN,
   },
+    {
+    code: "PCH",
+    storeName: "mi-pouches",
+    token: process.env.PCH_TOKEN,
+  },
 ];
 
 /**
