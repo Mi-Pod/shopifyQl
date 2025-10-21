@@ -1,6 +1,6 @@
 {
   "name": "mipod-shopifyql",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "description": "Custom wrapper for Shopify GraphQL, by Mi-One Brands",
   "main": "index.js",
   "scripts": {
