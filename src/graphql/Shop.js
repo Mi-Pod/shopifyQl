@@ -1,6 +1,6 @@
 const { shopifyQl } = require("../api/Shopify.QL");
 
-async function getShop(site) {
+exports.getShop = async (site) => {
   const query = ` {
   shop {
     id
@@ -14,6 +14,7 @@ async function getShop(site) {
   } catch (error) {
     return error;
   }
-}
 
-module.exports = { getShop };
+};
+
+
